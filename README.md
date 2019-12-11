@@ -1,7 +1,7 @@
 # Trabajos
 Trabajos con la web
 
-##Trabajos
+Trabajos
 [Ilustración inicio] (https://alma328.github.io/ilus_inici/)
 [Imágenes] (https://alma328.github.io/1img/)
 [Tabla de colores] (https://alma328.github.io/Tabla-colores/)
